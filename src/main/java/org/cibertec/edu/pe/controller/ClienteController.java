@@ -1,9 +1,9 @@
-package org.daw.controller;
+package org.cibertec.edu.pe.controller;
 
 import java.util.List;
 
-import org.daw.interfaceService.IClienteService;
-import org.daw.modelo.Cliente;
+import org.cibertec.edu.pe.entity.Cliente;
+import org.cibertec.edu.pe.interfaceSer.IClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

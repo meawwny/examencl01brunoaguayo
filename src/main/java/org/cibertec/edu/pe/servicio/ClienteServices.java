@@ -1,10 +1,10 @@
-package org.daw.services;
+package org.cibertec.edu.pe.servicio;
 
 import java.util.List;
 
-import org.daw.interfaceService.IClienteService;
-import org.daw.interfaces.ICliente;
-import org.daw.modelo.Cliente;
+import org.cibertec.edu.pe.entity.Cliente;
+import org.cibertec.edu.pe.interfaceSer.IClienteService;
+import org.cibertec.edu.pe.interfaces.ICliente;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

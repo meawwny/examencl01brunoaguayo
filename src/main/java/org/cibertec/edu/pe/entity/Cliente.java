@@ -1,4 +1,4 @@
-package org.daw.modelo;
+package org.cibertec.edu.pe.entity;
 
 import java.sql.Date;
 

@@ -1,8 +1,8 @@
-package org.daw.interfaceService;
+package org.cibertec.edu.pe.interfaceSer;
 
 import java.util.List;
 
-import org.daw.modelo.Cliente;
+import org.cibertec.edu.pe.entity.Cliente;
 
 public interface IClienteService {
 	

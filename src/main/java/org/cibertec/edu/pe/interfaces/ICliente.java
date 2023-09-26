@@ -1,6 +1,6 @@
-package org.daw.interfaces;
+package org.cibertec.edu.pe.interfaces;
 
-import org.daw.modelo.Cliente;
+import org.cibertec.edu.pe.entity.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
